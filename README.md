@@ -10,6 +10,6 @@ To run code correctly , you'll need
     Choregraphe (https://support.unitedrobotics.group/en/support/solutions/articles/80001018812-nao-6-downloads)
     Python NAO SDK ([https://support.unitedrobotics.group/en/support/solutions/articles/80001018812-nao-6-downloads](http://doc.aldebaran.com/2-8/dev/python/install_guide.html))
     OpenCV >= 4.2.0
-    !Port of Virtual robot is not stable -> go to Edit-> Prefrences -> Virtual Robot -> NAOqi state:Running on port xxxxx
+    !Port of Virtual robot is not stable -> Go to Edit-> Prefrences -> Virtual Robot -> NAOqi state:Running on port xxxxx
   
    
