@@ -1,3 +1,2 @@
 ﻿# VirtualNAO-importcameralaptop-Choregraphe.app
-# VirtualNAO-Cameralaptop
-# VirtualNAO-RecCameralaptop
+Initial implementation of camera and video capture functionality within Choregraphe using Python
